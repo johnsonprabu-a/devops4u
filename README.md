@@ -3,7 +3,7 @@ This Contains Ansible Playbooks And Terraform Tfs
 
 ----------------------------------------------
 
-Folder Desc:
+Folder Description:
  
 terraform: - contains tfs for specified tools
 ansible:  - contains playbooks for specified tools
